@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shipping xmlns="http://www.demandware.com/xml/impex/shipping/2007-03-31">
+    <shipping-method method-id="10USDifLess200" default="true">
+        <display-name xml:lang="x-default">10USD If Less Than 200</display-name>
+        <online-flag>true</online-flag>
+        <price-table>
+            <amount order-value="0">10</amount>
+            <amount order-value="200">0</amount>
+        </price-table>
+        <custom-attributes>
+            <custom-attribute attribute-id="storePickupEnabled">true</custom-attribute>
+        </custom-attributes>
+    </shipping-method>
+
+</shipping>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users xmlns="http://www.demandware.com/xml/impex/user/2007-09-05">
+    <user login="andreigradinescu@yahoo.ro" enabled-flag="true">
+        <credentials>
+            <external-id>68984098-db8f-4b35-acd9-ca533b868607</external-id>
+        </credentials>
+        <profile>
+            <first-name>Andrei</first-name>
+            <last-name>Gradinescu</last-name>
+            <email>andreigradinescu@yahoo.ro</email>
+            <preferred-data-locale>none</preferred-data-locale>
+        </profile>
+    </user>
+
+</users>
